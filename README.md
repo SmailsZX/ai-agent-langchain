@@ -1,5 +1,6 @@
 # AI Agent на LangGraph
 
+![Tests](https://github.com/SmailsZX/ai-agent-langchain/actions/workflows/tests.yml/badge.svg)
 [![Python](https://img.shields.io/badge/Python-3.12-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![LangChain](https://img.shields.io/badge/LangChain-1.x-1C3C3C?logo=langchain&logoColor=white)](https://www.langchain.com/)
 [![LangGraph](https://img.shields.io/badge/LangGraph-1.x-FF6F61)](https://langchain-ai.github.io/langgraph/)
