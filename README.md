@@ -6,6 +6,7 @@
 [![LangGraph](https://img.shields.io/badge/LangGraph-1.x-FF6F61)](https://langchain-ai.github.io/langgraph/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.40-FF4B4B?logo=streamlit&logoColor=white)](https://streamlit.io/)
 [![Ollama](https://img.shields.io/badge/Ollama-local%20LLM-000000)](https://ollama.com/)
+[![Tests](https://img.shields.io/badge/tests-9%20passed-brightgreen)]()
 
 **ReAct-агент** на LangGraph с инструментами: калькулятор, погода, RAG-поиск по документам. Работает **полностью локально** — данные не уходят в облако.
 
